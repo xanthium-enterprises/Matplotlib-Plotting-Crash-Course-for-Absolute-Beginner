@@ -46,3 +46,5 @@ Matplotlib provides the FuncAnimation class for updating plots repeatedly as new
 - [Build your own Data Acquisition and Logging System to CSV file using Python and Arduino](https://www.xanthium.in/python-data-acquisition-system-daq-arduino-log-to-csv-file)
 
 - [GUI Serial port Data Logging System to CSV text file using Python and tkinter (ttkbootstrap)](https://www.xanthium.in/multithreading-serial-port-data-acquisition-to-csv-file-using-producer-consumer-pattern-python)
+
+- [Real-Time Line Chart Animation using Matplotlib Library and Python](https://www.xanthium.in/creating-animating-line-charts-matplotlib-absolute-beginners)
