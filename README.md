@@ -1,5 +1,7 @@
 # Matplotlib Library Crash Course for Absolute Beginner
 
+![Real-Time Line Chart Animation using Matplotlib Library and Python](Images/real-time-graph.gif)
+
 A beginner friendly collection of Python examples for learning how to create, customize, organize, and animate line charts using Matplotlib Library and Python.
 
 This tutorial will help you learn the basics of plotting data on a Matplotlib Window coming from an external device like Arduino,Labjack DAQ or other Data acquisition system.
