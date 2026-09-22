@@ -27,6 +27,17 @@ This tutorial will help you learn the basics of plotting data on a Matplotlib Wi
 - Creating 2×2 subplot layouts
 - Understanding the basics of real-time line-chart animation in Matplotlib Library
 
+## Images 
+
+- ![](Images/creating-comprehensive-line-chart.jpg)
+
+- ![](Images/image_261.png)
+
+- ![](Images/multiple-figure-with-multiple-axes.jpg)
+
+- ![](Images/image_275.png)
+
+
 ## Real-Time Line Chart Animation using Matplotlib Library and Python.
 
 The tutorial also introduces the idea of animating a line chart for data received from an external source such as an Arduino or [data acquisition system](https://www.youtube.com/watch?v=hpHv4Iux6_s).
