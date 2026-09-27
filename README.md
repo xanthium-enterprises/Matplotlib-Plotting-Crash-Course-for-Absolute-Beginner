@@ -9,6 +9,7 @@ This tutorial will help you learn the basics of plotting data on a Matplotlib Wi
 ## Tutorial
 
 - [Matplotlib Library Crash Course for Absolute Beginner](https://github.com/xanthium-enterprises/Matplotlib-Plotting-Crash-Course-for-Absolute-Beginner)
+- [Complete Matplotlib Plotting Tutorial using Python for Absolute Beginners-Youtube](https://www.youtube.com/watch?v=r2hsO3cffu4)
 
 ## What you will Learn 
 
