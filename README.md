@@ -46,6 +46,7 @@ This tutorial will help you learn the basics of plotting data on a Matplotlib Wi
 
 The tutorial also introduces the idea of animating a line chart for data received from an external source such as an Arduino or [data acquisition system](https://www.youtube.com/watch?v=hpHv4Iux6_s).
 
+
 This is particularly useful for applications such as
 
 - Sensor monitoring
@@ -65,3 +66,6 @@ Matplotlib provides the FuncAnimation class for updating plots repeatedly as new
 - [GUI Serial port Data Logging System to CSV text file using Python and tkinter (ttkbootstrap)](https://www.xanthium.in/multithreading-serial-port-data-acquisition-to-csv-file-using-producer-consumer-pattern-python)
 
 - [Real-Time Line Chart Animation using Matplotlib Library and Python](https://www.xanthium.in/creating-animating-line-charts-matplotlib-absolute-beginners)
+
+- [Real Time Graph Animation in Matplotlib Using FuncAnimation() and Python for Beginners](https://www.instructables.com/Real-Time-Live-Data-Plotting-in-Matplotlib-Using-F)
+- [Creating and Configuring a Line Chart (line Plot) in Matplotlib Using Python for Beginners](https://www.instructables.com/Creating-and-Configuring-a-Line-Chart-in-Matplotli)
