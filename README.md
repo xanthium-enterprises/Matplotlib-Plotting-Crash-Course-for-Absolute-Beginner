@@ -6,10 +6,13 @@ A beginner friendly collection of Python examples for learning how to create, cu
 
 This tutorial will help you learn the basics of plotting data on a Matplotlib Window coming from an external device like Arduino,Labjack DAQ or other Data acquisition system.
 
+![Real-Time Multiple Line plot Animation using Matplotlib Library and Python](Images/multiple-subplots.gif)
+
 ## Tutorial
 
 - [Matplotlib Library Crash Course for Absolute Beginner](https://github.com/xanthium-enterprises/Matplotlib-Plotting-Crash-Course-for-Absolute-Beginner)
 - [Complete Matplotlib Plotting Tutorial using Python for Absolute Beginners-Youtube](https://www.youtube.com/watch?v=r2hsO3cffu4)
+- [Matplotlib Animation Tutorial for Absolute Beginner using Python (Youtube)](https://www.youtube.com/watch?v=CZHtWocvQdc)
 
 ## What you will Learn 
 
