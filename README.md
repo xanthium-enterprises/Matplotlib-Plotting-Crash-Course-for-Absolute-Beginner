@@ -8,6 +8,10 @@ This tutorial will help you learn the basics of plotting data on a Matplotlib Wi
 
 ![Real-Time Multiple Line plot Animation using Matplotlib Library and Python](Images/multiple-subplots.gif)
 
+## Animating 4 subplots inside a Single Matplotlib Window.
+In this example we will animate 4 matplotlib plots concurrently inside a single window using  Python and FuncAnimation. The Subplots will be arrangedin a 2X2 grid inside the main window or figure.
+![Real-Time Multiple Line plot Animation using Matplotlib Library and Python](Images/quad-subplots-real-time-animation-tutorial.gif)
+
 ## Tutorial
 
 - [Matplotlib Library Crash Course for Absolute Beginner](https://github.com/xanthium-enterprises/Matplotlib-Plotting-Crash-Course-for-Absolute-Beginner)
