@@ -12,6 +12,7 @@ This tutorial will help you learn the basics of plotting data on a Matplotlib Wi
 - [Complete Matplotlib Plotting Tutorial using Python for Absolute Beginners-Youtube](https://www.youtube.com/watch?v=r2hsO3cffu4)
 - [Matplotlib Animation Tutorial for Absolute Beginner using Python (Youtube)](https://www.youtube.com/watch?v=CZHtWocvQdc)
 
+## Animating the Plots using FuncAnimation() class and Python
 
 ![Real-Time Multiple Line plot Animation using Matplotlib Library and Python](Images/multiple-subplots.gif)
 
