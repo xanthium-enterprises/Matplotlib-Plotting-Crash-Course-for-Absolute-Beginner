@@ -1,4 +1,4 @@
-# Matplotlib Library Crash Course for Absolute Beginner
+# Matplotlib Library Plotting and Animation Crash Course Tutorials for Absolute Beginner
 
 ![Real-Time Line Chart Animation using Matplotlib Library and Python](Images/real-time-graph.gif)
 
@@ -41,7 +41,7 @@ In this example we will animate 4 matplotlib plots concurrently inside a single 
 ![Real-Time Multiple Line plot Animation using Matplotlib Library and Python](Images/quad-subplots-real-time-animation-tutorial.gif)
 
 
-## What you will Learn 
+## What you will Learn in this Tutorial collection
 
 - Installing Matplotlib
 - Understanding Figure and Axes
@@ -57,6 +57,18 @@ In this example we will animate 4 matplotlib plots concurrently inside a single 
 - Creating multiple plots in one figure
 - Creating 2×2 subplot layouts
 - Understanding the basics of real-time line-chart animation in Matplotlib Library
+- Animating a Line Chart in Real Time using Matplotlib
+- How FuncAnimation() works in Matplotlib
+- Saving the Matplotlib Animated Graph as a GIF Image
+- Creating a Line Scrolling Real time Line Chart in Matplotlib Library
+- Implementing Scrolling Action in Matplotlib
+- Animating multiple subplots inside a single Matplotlib window
+- Animating 4 Subplots in Realtime using FuncAnimation()
+- Saving Matplotlib Animated Plot to a GIF Image
+- Saving Matplotlib Animated Plot to a MP4 Video using FFmpeg
+- Installing FFmpeg on Windows 11
+- Checking whether FFmpeg is Detected by PyCharm IDE
+- Creating a MP4 Video from Matplotlib Plots 
 
 ## Images 
 
