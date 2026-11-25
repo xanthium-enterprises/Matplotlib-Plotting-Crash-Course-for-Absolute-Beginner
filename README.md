@@ -4,7 +4,13 @@
 
 A beginner friendly collection of Python examples for learning how to create, customize, organize, and animate line charts using Matplotlib Library and Python.
 
-This tutorial will help you learn the basics of plotting data on a Matplotlib Window coming from an external device like Arduino,Labjack DAQ or other Data acquisition system.
+In this tutorial collection repo , we will learn how to create and animate line graphs in Python using the Matplotlib library to visualize data received from Arduino boards and other embedded systems. We will begin by exploring the fundamental concepts of Matplotlib, including Figures and Axes, and then learn how to customize graphs by creating ticks, changing the colour and thickness of plot lines, modifying default markers, and enabling or disabling grid lines.
+
+We will also learn how to create real-time animations using Matplotlib's FuncAnimation() function to plot data received from external sources such as Arduino and data acquisition systems like LabJack. The tutorial will demonstrate how to create multiple subplots (Axes) within a single Matplotlib window (Figure) using plt.subplots() and animate them simultaneously in real time. In addition, we will explore how to animate multiple lines across multiple plots to visualize different types of time-series data, such as temperature, pressure, RPM, and other sensor readings.
+
+Furthermore, we will learn how to save animated Matplotlib plots as MP4 video files using the H.264 codec and the open-source FFmpeg multimedia framework. This includes downloading the correct FFmpeg library for your operating system, configuring it, adding it to the system PATH, and making it accessible to the PyCharm IDE. We will also cover how to troubleshoot commonly encountered errors, such as RuntimeError: Requested MovieWriter (ffmpeg) not available, when converting Matplotlib animations into video files.
+
+Finally, we will learn how to convert animated Matplotlib plots into GIF images and save them to disk so they can be shared with others or embedded in web pages. Using the ani.save() method of the FuncAnimation() class, along with image-processing libraries such as Pillow or ImageMagick, we will explore how to save animations as GIF files and customize their properties, including frame rate, DPI resolution, and image size
 
 ## Tutorial
 
