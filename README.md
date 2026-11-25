@@ -8,9 +8,21 @@ This tutorial will help you learn the basics of plotting data on a Matplotlib Wi
 
 ## Tutorial
 
-- [Matplotlib Library Crash Course for Absolute Beginner](https://github.com/xanthium-enterprises/Matplotlib-Plotting-Crash-Course-for-Absolute-Beginner)
+- [Matplotlib Library Crash Course for Absolute Beginner](https://www.xanthium.in/creating-animating-line-charts-matplotlib-absolute-beginners)
 - [Complete Matplotlib Plotting Tutorial using Python for Absolute Beginners-Youtube](https://www.youtube.com/watch?v=r2hsO3cffu4)
 - [Matplotlib Animation Tutorial for Absolute Beginner using Python (Youtube)](https://www.youtube.com/watch?v=CZHtWocvQdc)
+- [Animating Multiple Matplotlib Subplots inside a Single Window using FuncAnimation() Class & Python](https://www.youtube.com/watch?v=KOe_P13kwes)
+- [How to convert Matplotlib plot animation to a gif image (image.gif)](https://www.youtube.com/watch?v=qDLGvr40nKg)
+- [How to Convert and Save An Animated Matplotlib Plot to a MP4 Video Using FFmpeg and Python](https://www.youtube.com/watch?v=9rraGrEt4q0)
+
+- [Installing Matplotlib Library using Powershell Command line ,Thonny or PyCharm IDE on Windows 11](https://www.youtube.com/watch?v=98mmxymOnf8)
+- [Creating a Simple line plot using Matplotlib Library and Python tutorial for Beginners](https://www.youtube.com/watch?v=sOuRdaNnrA0)
+- [How to change the plot line color, line style, line thickness, marker size, shape in Matplotlib Plot](https://www.youtube.com/watch?v=fAQdD5B1qBY)
+- [Changing the name of the Matplotlib Window, Plotting Area (axes),X and Y axis](https://www.youtube.com/watch?v=7n5o-nkTAf4)
+- [What are Ticks and How to configure Major and Minor Ticks on a Matplotlib Plot using Python](https://www.youtube.com/watch?v=cp0Hbq-rxs4)
+- [Matplotlib set_xlim() & set_ylim() Explained | Control X & Y Axis Limits in Python](https://www.youtube.com/watch?v=q50tsFooxLY)
+- [How to Create Multiple Subplots in One Figure Using Matplotlib & Python Tutorial](https://www.youtube.com/watch?v=KqAaabDGCDQ)
+- [How to Enable, Configure and Customize Grid lines on a Matplotlib plot using Python](https://www.youtube.com/watch?v=-D-TF2MNbkU)
 
 ## Animating the Plots using FuncAnimation() class and Python
 
