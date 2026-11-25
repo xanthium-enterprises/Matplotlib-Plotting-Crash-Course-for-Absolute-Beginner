@@ -15,6 +15,8 @@ This tutorial will help you learn the basics of plotting data on a Matplotlib Wi
 - [How to convert Matplotlib plot animation to a gif image (image.gif)](https://www.youtube.com/watch?v=qDLGvr40nKg)
 - [How to Convert and Save An Animated Matplotlib Plot to a MP4 Video Using FFmpeg and Python](https://www.youtube.com/watch?v=9rraGrEt4q0)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 - [Installing Matplotlib Library using Powershell Command line ,Thonny or PyCharm IDE on Windows 11](https://www.youtube.com/watch?v=98mmxymOnf8)
 - [Creating a Simple line plot using Matplotlib Library and Python tutorial for Beginners](https://www.youtube.com/watch?v=sOuRdaNnrA0)
 - [How to change the plot line color, line style, line thickness, marker size, shape in Matplotlib Plot](https://www.youtube.com/watch?v=fAQdD5B1qBY)
